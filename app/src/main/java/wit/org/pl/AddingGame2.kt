@@ -18,10 +18,6 @@ class AddingGame2 : AppCompatActivity() {
 
         btn_start_game2.setOnClickListener {
 
-
-
-
-
                 txtView_instruction_game2.text = "Add $numberone + $numbertwo"
                 counter++
             txtView_done_game2.text = "Counter equls to $counter"
@@ -30,18 +26,7 @@ class AddingGame2 : AppCompatActivity() {
             }
 
 
-
-
-
-
-
-
         }
-
-
-
-
-
 
     }
 
