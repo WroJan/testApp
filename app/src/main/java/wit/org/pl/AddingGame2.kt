@@ -22,7 +22,7 @@ class AddingGame2 : AppCompatActivity() {
                 counter++
             txtView_done_game2.text = "Counter equls to $counter"
             if(counter.equals(1)) {
-                txtView_done_game2.text = "Counter equls TUTAJ JEST UPDATE to $counter"
+                txtView_done_game2.text = "Counter equls TUTAccJ JEST UPDATE to $counter"
             }
 
 
